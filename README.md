@@ -1,7 +1,7 @@
 # NFCWeddingInvite
 NFC Energy Harvesting Wedding Invite
 
-![alt text](https://github.com/tylerpleiter/NFCWeddingInvite/Images/InviteFront.jpg "Completed Invite")
+![alt text](https://github.com/tylerpleiter/NFCWeddingInvite/blob/main/Images/InviteFront.jpg "Completed Invite")
 
 ## Description:
 
